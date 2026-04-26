@@ -3,7 +3,7 @@ eip: XXXX
 title: Optimistic Escrow for Agent Payments
 description: On-chain escrow with optimistic settlement and arbitrator-mediated dispute resolution
 author: Aaron Zhou (@AaronZgl), Hugo Cui (@albbm)
-discussions-to: https://ethereum-magicians.org/t/TBD
+discussions-to: https://ethereum-magicians.org/t/optimistic-escrow-for-agentic-payments/28354
 status: Draft
 type: Standards Track
 category: ERC
